@@ -1,0 +1,71 @@
+.header{
+	background-image: url('img01.jpg');
+	background-size:cover;
+	background-position: center;
+	color: gold;
+	text align: centre;
+	padding:100px 0;
+
+}
+footer{
+	margin-top:20px;
+	background-color:gold;
+	padding:20px;
+	text-align:centre;
+}
+.social-icon {
+	margin:0 5px;
+	height: 40px;
+	width: 40px;
+
+}
+footer p{
+	margin:10px 0;
+	color:black;
+	text-align: center;
+}
+.main{
+	position:relative;
+	top:20px;
+	left:20px;
+	color: black;
+}
+.info-section{
+		background-color:gold;
+		padding:50px 0;
+
+}
+.info-section.container{
+	text-align:centre;
+}
+.info-section h2{
+	margin-bottom:40px;
+	font-size:2em;
+}
+.info-item {
+	display: inline-block;
+	width: calc(70% - 60px);
+	margin: 20px;
+	text-align: center;
+	border-radius: 10px;
+	box-shadow: 0 4px 6px black (0, 0, 0, 0, 0.1);
+	transition: transform 0.3s ease;
+	vertical-align: top;
+	background-color: white;
+}
+.container{
+	display: flex;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.serve {
+
+}
+.contact{background-colour:gold;
+	padding:20px;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+	margin-bottom: 20pxs;
+
+}
